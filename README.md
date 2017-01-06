@@ -2,7 +2,7 @@
 
 ## Overview
 
-px-dark-theme is a Predix UI component. This is the starting point for theming Predix UI  components. It is based loosely on the concepts outlined [here](https://www.polymer-project.org/1.0/docs/devguide/styling.html#xscope-styling).
+px-dark-demo-theme is a Predix UI component. This is the starting point for theming Predix UI demo pages for the components. It is based loosely on the concepts outlined [here](https://www.polymer-project.org/1.0/docs/devguide/styling.html#xscope-styling).
 
 
 ## Usage
@@ -26,7 +26,7 @@ bower install px-dark-demo-theme --save
 Second, import the component to your application with the following tag in your head.
 
 ```
-<link rel="import" href="/bower_components/px-dark-theme/px-dark-theme.html"/>
+<link rel="import" href="/bower_components/px-dark-demo-theme/px-dark-demo-theme.html"/>
 ```
 
 
@@ -58,4 +58,4 @@ The root of that server (e.g. http://localhost:8080/) will automatically open in
 
 ## Known Issues
 
-Please use [Github Issues](https://github.com/PredixDev/px-dark-theme/issues) to submit any bugs you might find.
+Please use [Github Issues](https://github.com/PredixDev/px-dark-demo-theme/issues) to submit any bugs you might find.

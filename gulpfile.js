@@ -52,7 +52,7 @@ gulp.task('sass', function() {
     ))
     .pipe(stylemod({
       moduleId: function(file) {
-        return 'px-theme-styles';
+        return 'px-dark-demo-theme-styles';
       }
     }))
     .pipe(gulp.dest('.'))
