@@ -1,0 +1,37 @@
+//
+// component theme variables for demos
+//
+
+@import "px-colors-design/_settings.colors-dark.scss";
+
+:root{
+
+  // Defaults
+  --px-base-text-color: $d-gray4;
+  --px-base-background-color: $d-gray17; 
+
+  // Demo Pages styles
+  --px-demo-interactive-background-color : $d-gray18;
+  --px-demo-properties-background-color : $d-gray17;
+  --px-demo-containers-border-color : $d-black;
+  --px-demo-component-background-color : $d-gray17;
+
+  //api
+  --px-demo-api-background-color : $d-gray5;
+  --paper-grey-200 : $d-gray6; 
+  // --px-demo-api-background-color : $d-gray17;
+  // --paper-grey-200 : $d-gray19; 
+  --paper-pink-500 : $d-primary-blue-hover;   
+  --paper-blue-500 : $d-primary-blue; 
+  --iron-doc-black : $d-gray4;  
+  --paper-grey-700 : $d-gray8;  
+  --paper-grey-500 : orange;   
+  --paper-grey-900 : $d-gray4;   
+
+  //Footer styles
+  --px-footer-background-color : $d-gray18; 
+  --px-footer-text-color : $d-gray11;
+  --px-footer-text-color--hover : $d-gray13;
+  --px-footer-text-color--pressed : $d-gray15;
+
+}
