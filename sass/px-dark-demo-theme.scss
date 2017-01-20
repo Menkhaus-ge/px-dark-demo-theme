@@ -18,14 +18,25 @@
   --px-demo-component-background-color : $d-gray17;
 
   //api
-  --px-demo-api-background-color : $d-gray5;
-  --paper-grey-200 : $d-gray6; 
-  --paper-pink-500 : $d-primary-blue-hover;   
-  --paper-blue-500 : $d-primary-blue; 
-  // --iron-doc-black : $d-gray4;
-  // --paper-grey-700 : $d-gray8;
-  // --paper-grey-500 : $d-gray6;
-  // --paper-grey-900 : $d-gray4;
+  --px-demo-api-background-color : $d-gray17;
+  --iron-doc-viewer-markdown-background : $d-gray18;   
+  --iron-doc-viewer-text-color : $d-gray6;
+  --iron-doc-viewer-title-link : $d-gray6;
+  --iron-doc-viewer-title-link-hover : $d-select-blue-hover;
+  --iron-doc-viewer-api-link-color : $d-primary-blue;
+  --iron-doc-viewer-code-color : $d-gray6;
+  --iron-doc-viewer-summary-link-color : $d-primary-blue;
+  --iron-doc-viewer-nav-border : $d-gray18;
+  --iron-doc-viewer-property-background : $d-gray18;
+  --iron-doc-viewer-private-property-background : $d-gray19;
+  --iron-doc-viewer-button-hover : $d-select-blue-hover;
+  --iron-doc-viewer-property-deeplink-color: $d-gray6;
+  --iron-doc-viewer-property-deeplink-color-hover: $d-select-blue-hover;
+  --iron-doc-viewer-property-signature-color: $d-gray6;
+  --iron-doc-viewer-property-annotation-color: $d-gray11;
+  --iron-doc-viewer-property-default-value-color: $d-gray11;
+  --iron-doc-viewer-property-markdown-link-color: $d-primary-blue;
+  --iron-doc-viewer-property-meta-color: $d-primary-blue;
 
   //Footer styles
   --px-footer-background-color : $d-gray18; 
