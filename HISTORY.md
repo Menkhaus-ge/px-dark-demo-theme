@@ -1,3 +1,7 @@
+v1.0.5
+==================
+* added theming for px-flexbox-design demo
+
 v1.0.4
 ==================
 * added --px-box-demo-border-color
