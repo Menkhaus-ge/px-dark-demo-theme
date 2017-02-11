@@ -1,3 +1,7 @@
+v1.0.6
+==================
+* added theming for px-layout-design demo
+
 v1.0.5
 ==================
 * added theming for px-flexbox-design demo
