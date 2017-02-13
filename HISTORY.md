@@ -1,3 +1,7 @@
+v1.0.8
+==================
+* added theming for px-width-design demo
+
 v1.0.7
 ==================
 * added theming for px-spacing-design demo
