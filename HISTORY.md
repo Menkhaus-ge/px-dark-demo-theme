@@ -1,3 +1,7 @@
+v1.0.9
+==================
+* added theming for px-helpers-design demo
+
 v1.0.8
 ==================
 * added theming for px-width-design demo
