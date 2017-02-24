@@ -1,3 +1,7 @@
+v1.0.10
+==================
+* added theming for px-demo collection deck selector
+
 v1.0.9
 ==================
 * added theming for px-helpers-design demo
