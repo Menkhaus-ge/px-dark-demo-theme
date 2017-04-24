@@ -1,6 +1,6 @@
 {
   "name": "px-dark-demo-theme",
-  "version": "1.0.10",
+  "version": "2.0.0",
   "main": [
     "px-dark-demo-theme.html"
   ],
@@ -16,8 +16,8 @@
   ],
   "dependencies": {
     "polymer": "^1.7.0",
-    "px-typography-design": "^1.1.3",
+    "px-typography-design": "^2.0.0",
     "px-iconography-design": "^0.3.7",
-    "px-colors-design": "^0.3.2"
+    "px-colors-design": "^1.0.0"
   }
 }
