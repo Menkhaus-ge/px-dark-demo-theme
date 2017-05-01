@@ -1,5 +1,6 @@
-v1.0.11
+v2.0.0
 ==================
+* bumped bower dependencies for refresh
 * added --px-demo-text-gray-color
 
 v1.0.10
