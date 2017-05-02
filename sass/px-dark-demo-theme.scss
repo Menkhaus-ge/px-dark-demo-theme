@@ -2,75 +2,75 @@
 // component theme variables
 //
 
-@import "px-colors-design/_settings.colors-dark.scss";
+@import "px-colors-design/_settings.colors.scss";
 
 :root{
 
   // Defaults
-  --px-base-text-color: $d-gray4;
-  --px-base-background-color: $d-gray17;
+  --px-base-text-color: $gray5;
+  --px-base-background-color: $gray17;
 
   // Demo Pages styles
-  --px-demo-base-background-color : $d-gray17;
-  --px-demo-interactive-background-color : $d-gray18;
-  --px-demo-properties-background-color : $d-gray17;
-  --px-demo-containers-border-color : $d-black;
-  --px-demo-component-background-color : $d-gray17;
-  --px-demo-collection-bottom-border-color : $d-gray18;
-  --px-demo-text-gray-color : $d-gray4;
+  --px-demo-base-background-color : $gray17;
+  --px-demo-interactive-background-color : $gray18;
+  --px-demo-properties-background-color : $gray17;
+  --px-demo-containers-border-color : $black;
+  --px-demo-component-background-color : $gray17;
+  --px-demo-collection-bottom-border-color : $gray18;
+  --px-demo-text-gray-color : $gray5;
 
   //api
-  --px-demo-api-background-color : $d-gray17;
-  --px-api-viewer-markdown-background: $d-gray18;
-  --px-api-viewer-text-color: $d-gray6;
-  --px-api-viewer-title-link: $d-gray6;
-  --px-api-viewer-title-link--hover: $d-select-blue-hover;
-  --px-api-viewer-api-link-color: $d-primary-blue;
-  --px-api-viewer-code-color: $d-gray6;
-  --px-api-viewer-summary-link-color: $d-primary-blue;
-  --px-api-viewer-nav-border: $d-gray18;
-  --px-api-viewer-property-background: $d-gray18;
-  --px-api-viewer-private-property-background: $d-gray19;
-  --px-api-viewer-button--hover: $d-select-blue-hover;
-  --px-api-viewer-property-name-color: $d-gray6;
-  --px-api-viewer-property-name-color--hover: $d-select-blue-hover;
-  --px-api-viewer-method-parameters-color: $d-gray6;
-  --px-api-viewer-annotation-color: $d-gray11;
-  --px-api-viewer-value-color: $d-gray11;
-  --px-api-viewer-markdown-link-color: $d-primary-blue;
-  --px-api-viewer-meta-color: $d-dv-bright-6;
-  --px-api-viewer-summary-td-color: $d-gray6;
+  --px-demo-api-background-color : $gray17;
+  --px-api-viewer-markdown-background: $gray18;
+  --px-api-viewer-text-color: $gray6;
+  --px-api-viewer-title-link: $gray6;
+  --px-api-viewer-title-link--hover: $select-hover;
+  --px-api-viewer-api-link-color: $primary-default;
+  --px-api-viewer-code-color: $gray6;
+  --px-api-viewer-summary-link-color: $primary-default;
+  --px-api-viewer-nav-border: $gray18;
+  --px-api-viewer-property-background: $gray18;
+  --px-api-viewer-private-property-background: $gray19;
+  --px-api-viewer-button--hover: $select-hover;
+  --px-api-viewer-property-name-color: $gray6;
+  --px-api-viewer-property-name-color--hover: $select-hover;
+  --px-api-viewer-method-parameters-color: $gray6;
+  --px-api-viewer-annotation-color: $gray11;
+  --px-api-viewer-value-color: $gray11;
+  --px-api-viewer-markdown-link-color: $primary-default;
+  --px-api-viewer-meta-color: $purple8;
+  --px-api-viewer-summary-td-color: $gray6;
 
   //Footer styles
-  --px-footer-background-color : $d-gray18;
-  --px-footer-text-color : $d-gray11;
-  --px-footer-text-color--hover : $d-gray13;
-  --px-footer-text-color--pressed : $d-gray15;
+  --px-footer-background-color : $gray18;
+  --px-footer-text-color : $gray11;
+  --px-footer-text-color--hover : $gray13;
+  --px-footer-text-color--pressed : $gray15;
 
   //px-sample pages
-  --px-sample-cards-temp--box : $d-gray15;
+  --px-sample-cards-temp--box : $gray15;
 
   //px-box-design
-  --px-box-demo-border-color : $d-gray14;
+  --px-box-demo-border-color : $gray14;
 
   //px-flexbox-design
-  --px-flexbox-demo-bg-color : $d-gray15;
-  --px-flexbox-demo-box-text-color : $d-gray4;
-  --px-flexbox-demo-box1-color : $d-dv-muted-1;
-  --px-flexbox-demo-box2-color : $d-dv-muted-6;
-  --px-flexbox-demo-box3-color : $d-dv-muted-9;
+  --px-flexbox-demo-bg-color : $gray15;
+  --px-flexbox-demo-box-text-color : $gray4;
+  --px-flexbox-demo-box1-color : $orange8;
+  --px-flexbox-demo-box2-color : $violet8;
+  --px-flexbox-demo-box3-color : $pink8;
 
   //px-layout-design
-  --px-layout-demo-border-color : $d-gray14;
+  --px-layout-demo-border-color : $gray14;
 
   //px-spacing-design
-  --px-spacing-demo-border-color: $d-gray4;
+  --px-spacing-demo-border-color: $gray4;
 
   //px-width-design
-  --px-width-demo-box-color: $d-dv-muted-1;
+  --px-width-demo-box-color: $orange8;
 
   //px-helpers-design
-  --px-helpers-demo-box: $d-gray15;
+  --px-helpers-demo-box: $gray15;
 
 
 

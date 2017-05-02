@@ -2,6 +2,7 @@ v2.0.0
 ==================
 * bumped bower dependencies for refresh
 * added --px-demo-text-gray-color
+* removed d-colors, rebuild sass
 
 v1.0.10
 ==================
