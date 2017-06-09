@@ -1,3 +1,11 @@
+v1.0.12
+==================
+* fix versioning and deps
+
+v1.0.11
+==================
+* added --px-demo-text-gray-color
+
 v1.0.10
 ==================
 * added theming for px-demo collection deck selector
