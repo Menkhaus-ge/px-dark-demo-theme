@@ -2,7 +2,7 @@
 
 ## Overview
 
-Px-dark-demo-theme is the starting point for theming Predix UI demo pages for the components. It is based loosely on the concepts outlined [here](https://www.polymer-project.org/1.0/docs/devguide/styling.html#xscope-styling).
+`Px-dark-demo-theme` is the starting point for theming Predix UI demo pages for the components. It is based loosely on the concepts outlined [here](https://www.polymer-project.org/1.0/docs/devguide/styling.html#xscope-styling).
 
 
 ## Usage
