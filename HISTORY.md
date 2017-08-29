@@ -1,3 +1,7 @@
+v2.0.1
+==================
+* updating footer styles
+
 v2.0.0
 ==================
 * bumped bower dependencies for refresh
