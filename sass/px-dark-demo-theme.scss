@@ -4,7 +4,7 @@
 
 @import "px-colors-design/_settings.colors.scss";
 
-:root{
+html, :host > * {
 
   // Defaults
   --px-base-text-color: $gray5;
